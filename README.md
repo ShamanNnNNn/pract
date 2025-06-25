@@ -14,4 +14,4 @@ pip install tinydb
 py test.py
 
 Для запуска app.py(Основной файл)
-py app.py get_tpl поле=значение поле="значение"
+py app.py get_tpl поле="значение" поле="значение"
